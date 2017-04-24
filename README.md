@@ -1,0 +1,2 @@
+# vb-jenkins
+vagrant jenkins
